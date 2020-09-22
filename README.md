@@ -1,1 +1,1 @@
-# This is my personal LeetCode practice Repo. Categorized by difficulty
+# This is my personal LeetCode practice Repo.
